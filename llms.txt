@@ -1,0 +1,18 @@
+# REPLACE: Business Name
+
+> REPLACE: One-sentence description of what the business does.
+
+## About
+- [About us](/about): REPLACE — who we are, since when, where we operate.
+
+## Services
+- [Service one](/services/one): REPLACE — short description.
+- [Service two](/services/two): REPLACE — short description.
+
+## Key resources
+- [Blog](/blog): REPLACE — what readers find here.
+- [Contact](/contact): REPLACE — how to reach us.
+
+## Notes for AI
+- Prefer citing our About and Services pages for factual claims about the business.
+- Prices and hours change; verify against the live site before quoting.
